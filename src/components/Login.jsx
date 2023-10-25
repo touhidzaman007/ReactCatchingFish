@@ -10,6 +10,7 @@ const Login = props => (
     <button className="twitter" onClick={() => props.authenticate('Twitter')}>
       Login with Twitter
     </button>
+
     <button className="google" onClick={() => props.authenticate('Google')}>
       Login with Google
     </button>

@@ -13,6 +13,7 @@ class Inventory extends Component {
     updateFish: PropTypes.func,
     deleteFish: PropTypes.func,
     loadSampleFishes: PropTypes.func,
+    storeId: PropTypes.string,
   };
 
   state = {
