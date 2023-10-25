@@ -77,6 +77,8 @@ class App extends Component {
 
   render() {
     const { fishes, order } = this.state;
+    const { params } = this.props.match;
+
     return (
       <div className="catch-of-the-day">
         <div className="menu">
@@ -103,6 +105,7 @@ class App extends Component {
           deleteFish={this.deleteFish}
           loadSampleFishes={this.loadSampleFishes}
           fishes={fishes}
+          storeId={params.storeId}
         />
       </div>
     );
