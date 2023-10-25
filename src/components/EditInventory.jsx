@@ -66,5 +66,4 @@ class EditInventory extends Component {
   }
 }
 
-
 export default EditInventory;
