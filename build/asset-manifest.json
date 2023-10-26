@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.206a497e.css",
+    "main.js": "/static/js/main.e3dfc744.js",
+    "static/media/blanch_caps_inline-webfont.svg": "/static/media/blanch_caps_inline-webfont.5daa1f7cf35044bb289d.svg",
+    "static/media/blanch_caps_inline-webfont.ttf": "/static/media/blanch_caps_inline-webfont.2727c9f89fac77f0bad5.ttf",
+    "static/media/blanch_caps_inline-webfont.woff": "/static/media/blanch_caps_inline-webfont.31b4faa0a3815c0d253f.woff",
+    "static/media/blanch_caps_inline-webfont.eot": "/static/media/blanch_caps_inline-webfont.dcc307d5a3edf2b25622.eot",
+    "static/media/haymaker-webfont.ttf": "/static/media/haymaker-webfont.f5976e5d15f4521d091a.ttf",
+    "static/media/haymaker-webfont.svg": "/static/media/haymaker-webfont.e3b4841d32a13daef020.svg",
+    "static/media/haymaker-webfont.woff": "/static/media/haymaker-webfont.5666a0601de26f19c142.woff",
+    "static/media/haymaker-webfont.eot": "/static/media/haymaker-webfont.7615c90b136cca477b1f.eot",
+    "static/media/anchor.svg": "/static/media/anchor.2a94c18c665effa0c86e.svg",
+    "index.html": "/index.html",
+    "main.206a497e.css.map": "/static/css/main.206a497e.css.map",
+    "main.e3dfc744.js.map": "/static/js/main.e3dfc744.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.206a497e.css",
+    "static/js/main.e3dfc744.js"
+  ]
+}
